@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liyunhua511.github.io</id>
     <title>Gridea</title>
-    <updated>2022-03-08T00:38:17.898Z</updated>
+    <updated>2022-03-14T02:28:22.324Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://liyunhua511.github.io"/>
     <link rel="self" href="https://liyunhua511.github.io/atom.xml"/>
@@ -10,6 +10,25 @@
     <logo>https://liyunhua511.github.io/images/avatar.png</logo>
     <icon>https://liyunhua511.github.io/favicon.ico</icon>
     <rights>All rights reserved 2022, Gridea</rights>
+    <entry>
+        <title type="html"><![CDATA[毕业论文修改大作战]]></title>
+        <id>https://liyunhua511.github.io/post/bi-ye-lun-wen-xiu-gai-da-zuo-zhan/</id>
+        <link href="https://liyunhua511.github.io/post/bi-ye-lun-wen-xiu-gai-da-zuo-zhan/">
+        </link>
+        <updated>2022-03-14T02:22:17.000Z</updated>
+        <content type="html"><![CDATA[<p>在连续三天的高强度修改下，我的绪论终于弄出来一个能看得下去的样子。<br>
+摘要（可<br>
+绪论（可<br>
+正文<br>
+章节引言<br>
+章节内容<br>
+章节小结<br>
+结论（可<br>
+参考文献（动态修改</p>
+<p>所以，接下来就是最后的章节引言和小结的修改。冲鸭~<br>
+<img src="https://liyunhua511.github.io/post-images/1647224851321.png" alt="" loading="lazy"></p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://liyunhua511.github.io/post/hello-gridea/</id>
